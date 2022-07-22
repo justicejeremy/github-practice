@@ -1,0 +1,19 @@
+.colum {
+    float: left;
+    width: 50px;
+    height: 200px;
+}
+
+#col-1 {
+    background-color: purple;
+
+}
+
+#col-2 {
+    background-color: gold;
+}
+
+.clearfix {clear: both;}
+
+h2 {padding-left: 100px;
+}
